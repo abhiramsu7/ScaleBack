@@ -1,0 +1,7 @@
+*.py[cod]
+.web
+assets/external/
+.states
+*.db
+__pycache__/
+".env" inside this file to protect my keys
